@@ -4,7 +4,7 @@ liteHA is a protocal that running in the HomeAutomation System.With this protoca
 
 [中文说明](https://github.com/fghjhuang/LiteHA_Protocal/blob/master/README_CHN.md)
 
-###　This protocol mainly offer this SDKs:
+### This protocol mainly offer this SDKs:
 
 * C SDK for MCUs to pack/unpack the total command of this protocol.
 * Android SDK to pack/unpack commands
