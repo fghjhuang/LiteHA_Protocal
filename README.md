@@ -19,3 +19,9 @@ liteHA is a protocal that running in the HomeAutomation System.With this protoca
 * C SDK with websocket for gateway used
 
 With this SDKs and protocal, anyone can focus more on their logic with their own system.
+
+[HAL level protocal](https://github.com/fghjhuang/LiteHA_Protocal/blob/master/LiteHACommand_HAL.md)
+
+[Command level protocal](https://github.com/fghjhuang/LiteHA_Protocal/blob/master/LiteHAProtocol_HAL.md)
+
+[Structure level protocal](https://github.com/fghjhuang/LiteHA_Protocal/blob/master/LiteHAProtocol_Structure.md)
